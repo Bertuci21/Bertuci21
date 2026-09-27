@@ -12,11 +12,13 @@
 
 <div align="center">
   
-  | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bertuci21&theme=midnight_purple&animation=draw) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bertuci21&theme=midnight_purple&animation=draw)| ! [](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bertuci21&theme=midnight_purple&animation=draw&utcOffset=0) |
-  | :-: | :-: |
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bertuci21&theme=midnight_purple&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bertuci21&theme=midnight_purple&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bertuci21&theme=midnight_purple&animation=draw&utcOffset=0)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bertuci21&theme=midnight_purple&animation=draw)
 
-  | ![]
-  | :-: | :-: |
+
+
 
   
   
