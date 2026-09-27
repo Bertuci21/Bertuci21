@@ -1,8 +1,86 @@
-## Olá! Eu sou a Bertuci21 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=290087&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+
+<div align="center">
+  <p>Estudando JavaScript, HTML,CSS e Python</p>
+</div>
+
+<div align="center" width="100%">
+ <img src="https://readme-typing-svg.demolab.com?font=Amarante&pause=1000&color=821AFF&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Bertuci+%3A%29" alt="Typing SVG" />
+</div>
+<br>
+<br>
+
+<div align="center">
+  
+  | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bertuci21&theme=midnight_purple&animation=draw) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bertuci21&theme=midnight_purple&animation=draw)| ! [](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bertuci21&theme=midnight_purple&animation=draw&utcOffset=0) |
+  | :-: | :-: |
+
+  | ![]
+  | :-: | :-: |
+
+  
+  
+</div>
 
 
-- 🌱 Estudando JavaScript, HTML,CSS e Python
-- 😄 Pronouns: ela/dela
+
+
+
+
+
+
+ <img align="right" height="470" src="https://pin.it/5Lrfy0tR2.gif" /> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width=100% src= "https://capsule-render.vercel.app/api?type=waving&height=110&color=290087&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Em progresso...
 <div style="display: inline_block"><br>
