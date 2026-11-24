@@ -21,8 +21,8 @@
 </div>
 
 <div align="center"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%239B26BC?style=for-the-badge&logo=gmail&logoColor=%23fff">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%239B26BC?style=for-the-badge&logo=linkedin&logoColor=%23fff">
+  <a href = "mailto:sophiabertucci4110@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-%239B26BC?style=for-the-badge&logo=gmail&logoColor=%23fff">
+  <a href="https://www.linkedin.com/in/sophia-bertuci-inoue-983a6a399/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%239B26BC?style=for-the-badge&logo=linkedin&logoColor=%23fff">
   <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%239B26BC?style=for-the-badge&logo=instagram&logoColor=%23fff">
   <img alt="Static Badge" src="https://img.shields.io/badge/discord-%239B26BC?style=for-the-badge&logo=discord&logoColor=%23fff">
   
@@ -36,25 +36,7 @@
 </div>
 
 
-
-
  <img align="right" height="470" src="https://pin.it/5Lrfy0tR2.gif" /> 
 
 
-
-
-
-
-
-
-
 <img width=100% src= "https://capsule-render.vercel.app/api?type=waving&height=110&color=290087&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
-
-
-  ##
- 
-<div align="center">
-  <a href = "mailto:sophiabertucci9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sophia-bertuci-inoue-983a6a399/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
